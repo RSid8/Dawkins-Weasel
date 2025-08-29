@@ -1,0 +1,13 @@
+# Compiled binary
+weasel
+
+# Object files
+*.o
+
+# Editor/OS files
+.DS_Store
+*.swp
+*.swo
+
+# Backup files
+*~
